@@ -1,5 +1,5 @@
 /**
- * \file pros/vision.h
+ * @file pros/vision.h
  *
  * Contains prototypes for the VEX Vision Sensor-related functions.
  *

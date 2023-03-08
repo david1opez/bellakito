@@ -1,5 +1,5 @@
 /**
- * \file pros/error.h
+ * @file pros/error.h
  *
  * Contains macro definitions for return types, mostly errors
  *

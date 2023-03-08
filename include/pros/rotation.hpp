@@ -1,5 +1,5 @@
 /**
- * \file pros/rotation.hpp
+ * @file pros/rotation.hpp
  *
  * Contains prototypes for functions related to the VEX Rotation Sensor.
  *

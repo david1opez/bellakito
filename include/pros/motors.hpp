@@ -1,5 +1,5 @@
 /**
- * \file pros/motors.hpp
+ * @file pros/motors.hpp
  *
  * Contains prototypes for the V5 Motor-related functions.
  *

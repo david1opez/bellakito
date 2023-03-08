@@ -1,5 +1,5 @@
 /**
- * \file pros/distance.hpp
+ * @file pros/distance.hpp
  *
  * Contains prototypes for the V5 Distance Sensor-related functions.
  *

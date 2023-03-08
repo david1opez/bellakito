@@ -1,5 +1,5 @@
 /**
- * \file pros/optical.h
+ * @file pros/optical.h
  *
  * Contains prototypes for functions related to the VEX Optical sensor.
  *

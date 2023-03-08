@@ -1,5 +1,5 @@
 /**
- * \file screen.h
+ * @file screen.h
  *
  * Brain screen display and touch functions.
  *

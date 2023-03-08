@@ -1,5 +1,5 @@
 /**
- * \file pros/motors.h
+ * @file pros/motors.h
  *
  * Contains prototypes for the V5 Motor-related functions.
  *

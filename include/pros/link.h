@@ -1,5 +1,5 @@
 /**
- * \file pros/link.h
+ * @file pros/link.h
  *
  * Contains prototypes for functions related to the robot to robot communications.
  *

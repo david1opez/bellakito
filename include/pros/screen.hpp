@@ -1,5 +1,5 @@
 /**
- * \file screen.hpp
+ * @file screen.hpp
  *
  * Brain screen display and touch functions.
  *

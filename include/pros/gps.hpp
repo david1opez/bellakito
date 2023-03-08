@@ -1,5 +1,5 @@
 /**
- * \file pros/gps.hpp
+ * @file pros/gps.hpp
  *
  * Contains prototypes for functions related to the VEX GPS.
  *

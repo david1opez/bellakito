@@ -1,5 +1,5 @@
 /**
- * \file pros/misc.hpp
+ * @file pros/misc.hpp
  *
  * Contains prototypes for miscellaneous functions pertaining to the controller,
  * battery, and competition control.

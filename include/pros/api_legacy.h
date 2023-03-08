@@ -1,5 +1,5 @@
 /**
- * \file pros/api_legacy.h
+ * @file pros/api_legacy.h
  *
  * PROS 2 Legacy API header
  *

@@ -1,5 +1,5 @@
 /**
- * \file pros/distance.h
+ * @file pros/distance.h
  *
  * Contains prototypes for functions related to the VEX Distance sensor.
  *

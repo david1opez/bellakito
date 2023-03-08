@@ -1,5 +1,5 @@
 /**
- * \file pros/gps.h
+ * @file pros/gps.h
  *
  * Contains prototypes for functions related to the VEX GPS.
  *

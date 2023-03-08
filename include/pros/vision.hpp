@@ -1,5 +1,5 @@
 /**
- * \file pros/vision.hpp
+ * @file pros/vision.hpp
  *
  * Contains prototypes for the VEX Vision Sensor-related functions in C++.
  *

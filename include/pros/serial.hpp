@@ -1,5 +1,5 @@
 /**
- * \file pros/serial.hpp
+ * @file pros/serial.hpp
  *
  * Contains prototypes for the V5 Generic Serial related functions.
  *

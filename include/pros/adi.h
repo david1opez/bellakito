@@ -1,5 +1,5 @@
 /**
- * \file pros/adi.h
+ * @file pros/adi.h
  *
  * Contains prototypes for interfacing with the ADI.
  *

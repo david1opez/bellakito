@@ -1,5 +1,5 @@
 /*
- * \file pros/llemu.h
+ * @file pros/llemu.h
  *
  * Legacy LCD Emulator
  *

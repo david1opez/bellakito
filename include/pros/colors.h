@@ -1,5 +1,5 @@
 /*
- * \file pros/colors.h
+ * @file pros/colors.h
  *
  * Contains macro definitions of colors (as `uint32_t`)
  *

@@ -1,5 +1,5 @@
 /**
- * \file pros/optical.hpp
+ * @file pros/optical.hpp
  *
  * Contains prototypes for functions related to the VEX Optical sensor.
  *

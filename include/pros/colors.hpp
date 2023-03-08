@@ -1,5 +1,5 @@
 /**
- * \file pros/colors.hpp
+ * @file pros/colors.hpp
  *
  * Contains enum class definitions of colors
  *

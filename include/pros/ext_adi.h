@@ -1,5 +1,5 @@
 /**
- * \file pros/ext_adi.h
+ * @file pros/ext_adi.h
  *
  * Contains prototypes for interfacing with the 3-Wire Expander.
  *

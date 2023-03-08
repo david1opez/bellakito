@@ -1,5 +1,5 @@
 /**
- * \file pros/imu.hpp
+ * @file pros/imu.hpp
  *
  * Contains prototypes for functions related to the VEX Inertial sensor.
  *

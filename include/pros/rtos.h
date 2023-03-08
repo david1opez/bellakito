@@ -1,5 +1,5 @@
 /**
- * \file pros/rtos.h
+ * @file pros/rtos.h
  *
  * Contains declarations for the PROS RTOS kernel for use by typical VEX
  * programmers.
